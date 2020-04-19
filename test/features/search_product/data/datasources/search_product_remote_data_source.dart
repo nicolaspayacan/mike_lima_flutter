@@ -39,7 +39,7 @@ void main() {
         json.decode(fixture('product_search_result.json')));
 
     test(
-      '''should perform GET request on a URLL with search 
+      '''should perform GET request on a URL with search 
           query being the enddpoint and with application/json header''',
       () async {
         setUpMockHttpClientSuccess200();
