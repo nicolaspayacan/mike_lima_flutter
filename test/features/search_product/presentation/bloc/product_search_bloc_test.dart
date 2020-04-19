@@ -31,7 +31,7 @@ void main() {
   group('SearchProductEvent', () {
     final String tSearchQuery = "remera";
     final ProductSearch tProductSearch = ProductSearch(
-      site_id: "MLA",
+      siteId: "MLA",
       query: tSearchQuery,
       results: [],
     );
@@ -112,6 +112,7 @@ void main() {
 
         final expected = [
           Empty(),
+          Loading(),
           Error(errorMessage: SERVER_FAILURE_MESSAGE),
         ];
         expectLater(bloc.state, emitsInOrder(expected));

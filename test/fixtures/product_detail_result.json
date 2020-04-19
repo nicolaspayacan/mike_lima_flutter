@@ -1,0 +1,643 @@
+[
+  {
+    "code": 200,
+    "body": {
+      "id": "MLA844638227",
+      "site_id": "MLA",
+      "title": "Camiseta adidas Boca Juniors Titular 2020 Hombre Original",
+      "subtitle": null,
+      "seller_id": 170445473,
+      "category_id": "MLA1286",
+      "official_store_id": null,
+      "price": 4599,
+      "base_price": 4599,
+      "original_price": null,
+      "currency_id": "ARS",
+      "initial_quantity": 229,
+      "available_quantity": 52,
+      "sold_quantity": 64,
+      "sale_terms": [
+        {
+          "id": "WARRANTY_TIME",
+          "name": "Tiempo de garantía",
+          "value_id": null,
+          "value_name": "3 meses",
+          "value_struct": {
+            "number": 3,
+            "unit": "meses"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "3 meses",
+              "struct": {
+                "number": 3,
+                "unit": "meses"
+              }
+            }
+          ]
+        },
+        {
+          "id": "WARRANTY_TYPE",
+          "name": "Tipo de garantía",
+          "value_id": "2230280",
+          "value_name": "Garantía del vendedor",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230280",
+              "name": "Garantía del vendedor",
+              "struct": null
+            }
+          ]
+        }
+      ],
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "start_time": "2020-03-19T13:32:24.000Z",
+      "stop_time": "2040-03-14T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-844638227-camiseta-adidas-boca-juniors-titular-2020-hombre-original-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/945935-MLA41179030843_032020-I.jpg",
+      "secure_thumbnail": "https://mla-s2-p.mlstatic.com/945935-MLA41179030843_032020-I.jpg",
+      "pictures": [
+        {
+          "id": "945935-MLA41179030843_032020",
+          "url": "http://mla-s2-p.mlstatic.com/945935-MLA41179030843_032020-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/945935-MLA41179030843_032020-O.jpg",
+          "size": "368x500",
+          "max_size": "902x1225",
+          "quality": ""
+        },
+        {
+          "id": "606666-MLA41179022979_032020",
+          "url": "http://mla-s2-p.mlstatic.com/606666-MLA41179022979_032020-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/606666-MLA41179022979_032020-O.jpg",
+          "size": "376x500",
+          "max_size": "916x1216",
+          "quality": ""
+        },
+        {
+          "id": "992496-MLA41179046643_032020",
+          "url": "http://mla-s2-p.mlstatic.com/992496-MLA41179046643_032020-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/992496-MLA41179046643_032020-O.jpg",
+          "size": "477x500",
+          "max_size": "1200x1257",
+          "quality": ""
+        },
+        {
+          "id": "959701-MLA41179046645_032020",
+          "url": "http://mla-s2-p.mlstatic.com/959701-MLA41179046645_032020-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/959701-MLA41179046645_032020-O.jpg",
+          "size": "473x500",
+          "max_size": "1200x1268",
+          "quality": ""
+        },
+        {
+          "id": "886771-MLA41173988528_032020",
+          "url": "http://mla-s2-p.mlstatic.com/886771-MLA41173988528_032020-O.jpg",
+          "secure_url": "https://mla-s2-p.mlstatic.com/886771-MLA41173988528_032020-O.jpg",
+          "size": "500x500",
+          "max_size": "1200x1200",
+          "quality": ""
+        }
+      ],
+      "video_id": null,
+      "descriptions": [
+        {
+          "id": "MLA844638227-2574824970"
+        }
+      ],
+      "accepts_mercadopago": true,
+      "non_mercado_pago_payment_methods": [
+      ],
+      "shipping": {
+        "mode": "me2",
+        "free_methods": [
+          {
+            "id": 73328,
+            "rule": {
+              "default": true,
+              "free_mode": "country",
+              "free_shipping_flag": true,
+              "value": null
+            }
+          }
+        ],
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "dimensions": null,
+        "local_pick_up": true,
+        "free_shipping": true,
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "international_delivery_mode": "none",
+      "seller_address": {
+        "city": {
+          "id": "TUxBQ0xBUGxhdGE",
+          "name": "La Plata"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "search_location": {
+          "city": {
+            "id": "TUxBQ0xBUGxhdGE",
+            "name": "La Plata"
+          },
+          "state": {
+            "id": "TUxBUEdSQXJlMDNm",
+            "name": "Bs.As. G.B.A. Sur"
+          }
+        },
+        "latitude": -34.9147,
+        "longitude": -57.947014,
+        "id": 152818241
+      },
+      "seller_contact": null,
+      "location": {
+      },
+      "geolocation": {
+        "latitude": -34.9147,
+        "longitude": -57.947014
+      },
+      "coverage_areas": [
+      ],
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "14810",
+          "value_name": "Adidas",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "14810",
+              "name": "Adidas",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "FOOTBALL_SHIRT_EDITION",
+          "name": "Edición especial de la camiseta",
+          "value_id": "-1",
+          "value_name": null,
+          "value_struct": null,
+          "values": [
+            {
+              "id": "-1",
+              "name": null,
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "FOOTBALL_SHIRT_NUMBER",
+          "name": "Número de la camiseta",
+          "value_id": "-1",
+          "value_name": null,
+          "value_struct": null,
+          "values": [
+            {
+              "id": "-1",
+              "name": null,
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "FOOTBALL_SHIRT_TYPE",
+          "name": "Tipo de camiseta",
+          "value_id": null,
+          "value_name": "Manga corta",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Manga corta",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "FOOTBALL_SHIRT_VERSION",
+          "name": "Versión de la camiseta",
+          "value_id": null,
+          "value_name": "Titular",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Titular",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "GENDER",
+          "name": "Género",
+          "value_id": "339666",
+          "value_name": "Hombre",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "339666",
+              "name": "Hombre",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "IS_FOR_GOALKEEPER",
+          "name": "Es para arquero",
+          "value_id": "242084",
+          "value_name": "No",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "OCCASION_TYPE",
+          "name": "Tipo de ocasión",
+          "value_id": "1245250",
+          "value_name": "Partido",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "1245250",
+              "name": "Partido",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "SPORT_SEASON",
+          "name": "Temporada",
+          "value_id": null,
+          "value_name": "2020",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "2020",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "TEAM",
+          "name": "Equipo",
+          "value_id": "4194629",
+          "value_name": "Boca Juniors",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "4194629",
+              "name": "Boca Juniors",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "TEAM_COUNTRY",
+          "name": "País del equipo",
+          "value_id": "2486996",
+          "value_name": "Argentina",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2486996",
+              "name": "Argentina",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "TEAM_TYPE",
+          "name": "Tipo de equipo",
+          "value_id": "416095",
+          "value_name": "Club nacional",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "416095",
+              "name": "Club nacional",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "warnings": [
+      ],
+      "listing_source": "",
+      "variations": [
+        {
+          "id": 52636035327,
+          "price": 4599,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "52028",
+                  "name": "Azul",
+                  "struct": null
+                }
+              ]
+            },
+            {
+              "id": "SIZE",
+              "name": "Talle",
+              "value_id": "2282666",
+              "value_name": "M",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "2282666",
+                  "name": "M",
+                  "struct": null
+                }
+              ]
+            }
+          ],
+          "available_quantity": 50,
+          "sold_quantity": 25,
+          "sale_terms": [
+          ],
+          "picture_ids": [
+            "945935-MLA41179030843_032020",
+            "606666-MLA41179022979_032020",
+            "992496-MLA41179046643_032020",
+            "959701-MLA41179046645_032020",
+            "886771-MLA41173988528_032020"
+          ],
+          "catalog_product_id": null
+        },
+        {
+          "id": 52636035217,
+          "price": 4599,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "52028",
+                  "name": "Azul",
+                  "struct": null
+                }
+              ]
+            },
+            {
+              "id": "SIZE",
+              "name": "Talle",
+              "value_id": "3330809",
+              "value_name": "S",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "3330809",
+                  "name": "S",
+                  "struct": null
+                }
+              ]
+            }
+          ],
+          "available_quantity": 1,
+          "sold_quantity": 5,
+          "sale_terms": [
+          ],
+          "picture_ids": [
+            "945935-MLA41179030843_032020",
+            "606666-MLA41179022979_032020",
+            "992496-MLA41179046643_032020",
+            "959701-MLA41179046645_032020",
+            "886771-MLA41173988528_032020"
+          ],
+          "catalog_product_id": null
+        },
+        {
+          "id": 52636035170,
+          "price": 4599,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "52028",
+                  "name": "Azul",
+                  "struct": null
+                }
+              ]
+            },
+            {
+              "id": "SIZE",
+              "name": "Talle",
+              "value_id": "3330808",
+              "value_name": "XS",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "3330808",
+                  "name": "XS",
+                  "struct": null
+                }
+              ]
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 4,
+          "sale_terms": [
+          ],
+          "picture_ids": [
+            "945935-MLA41179030843_032020",
+            "606666-MLA41179022979_032020",
+            "992496-MLA41179046643_032020",
+            "959701-MLA41179046645_032020",
+            "886771-MLA41173988528_032020"
+          ],
+          "catalog_product_id": null
+        },
+        {
+          "id": 52636035376,
+          "price": 4599,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "52028",
+                  "name": "Azul",
+                  "struct": null
+                }
+              ]
+            },
+            {
+              "id": "SIZE",
+              "name": "Talle",
+              "value_id": "3330811",
+              "value_name": "L",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "3330811",
+                  "name": "L",
+                  "struct": null
+                }
+              ]
+            }
+          ],
+          "available_quantity": 1,
+          "sold_quantity": 25,
+          "sale_terms": [
+          ],
+          "picture_ids": [
+            "945935-MLA41179030843_032020",
+            "606666-MLA41179022979_032020",
+            "992496-MLA41179046643_032020",
+            "959701-MLA41179046645_032020",
+            "886771-MLA41173988528_032020"
+          ],
+          "catalog_product_id": null
+        },
+        {
+          "id": 52636035412,
+          "price": 4599,
+          "attribute_combinations": [
+            {
+              "id": "COLOR",
+              "name": "Color",
+              "value_id": "52028",
+              "value_name": "Azul",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "52028",
+                  "name": "Azul",
+                  "struct": null
+                }
+              ]
+            },
+            {
+              "id": "SIZE",
+              "name": "Talle",
+              "value_id": "433336",
+              "value_name": "XL",
+              "value_struct": null,
+              "values": [
+                {
+                  "id": "433336",
+                  "name": "XL",
+                  "struct": null
+                }
+              ]
+            }
+          ],
+          "available_quantity": 0,
+          "sold_quantity": 5,
+          "sale_terms": [
+          ],
+          "picture_ids": [
+            "945935-MLA41179030843_032020",
+            "606666-MLA41179022979_032020",
+            "992496-MLA41179046643_032020",
+            "959701-MLA41179046645_032020",
+            "886771-MLA41173988528_032020"
+          ],
+          "catalog_product_id": null
+        }
+      ],
+      "status": "active",
+      "sub_status": [
+      ],
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible"
+      ],
+      "warranty": "Garantía del vendedor: 3 meses",
+      "catalog_product_id": null,
+      "domain_id": "MLA-FOOTBALL_SHIRTS",
+      "parent_item_id": null,
+      "differential_pricing": null,
+      "deal_ids": [
+      ],
+      "automatic_relist": false,
+      "date_created": "2020-03-19T13:32:24.000Z",
+      "last_updated": "2020-04-19T00:56:46.000Z",
+      "health": 0.81,
+      "catalog_listing": false
+    }
+  }
+]

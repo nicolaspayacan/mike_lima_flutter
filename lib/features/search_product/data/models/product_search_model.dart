@@ -7,7 +7,7 @@ class ProductSearchModel extends ProductSearch {
     @required String site_id,
     @required String query,
     @required List<ProductModel> results,
-  }) : super(site_id: site_id, query: query, results: results);
+  }) : super(siteId: site_id, query: query, results: results);
 
   factory ProductSearchModel.fromJson(Map<String, dynamic> json) {
     return ProductSearchModel(
@@ -21,7 +21,7 @@ class ProductSearchModel extends ProductSearch {
 
   Map<String, dynamic> toJson() {
     return {
-      'site_id': site_id,
+      'site_id': siteId,
       'query': query,
       'results': (results?.map((productModel) =>
           (productModel as ProductModel).toJson()
