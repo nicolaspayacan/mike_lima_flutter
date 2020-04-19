@@ -20,7 +20,7 @@ void main() {
 
   final searchQuery = "remera";
   final searchResult = ProductSearch(
-    site_id: "MLA",
+    siteId: "MLA",
     query: "remera",
     results: [Product(id: "1", title: "Remera", price: 22.3)],
   );

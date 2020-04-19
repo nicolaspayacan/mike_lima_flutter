@@ -31,7 +31,7 @@ void main() {
   group('SearchProductEvent', () {
     final String tSearchQuery = "remera";
     final ProductSearch tProductSearch = ProductSearch(
-      site_id: "MLA",
+      siteId: "MLA",
       query: tSearchQuery,
       results: [],
     );
