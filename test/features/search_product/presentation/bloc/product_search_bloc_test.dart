@@ -112,6 +112,7 @@ void main() {
 
         final expected = [
           Empty(),
+          Loading(),
           Error(errorMessage: SERVER_FAILURE_MESSAGE),
         ];
         expectLater(bloc.state, emitsInOrder(expected));
