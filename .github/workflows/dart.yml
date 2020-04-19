@@ -20,8 +20,6 @@ jobs:
     - name: Setup Flutter ${{ matrix.flutter-version }}
       id: flutter
       uses: npayacan/gh-actions/setup-flutter@master
-      with:
-        channel: ${{ matrix.flutter-version }}
 
 
     - name: Install dependencies
